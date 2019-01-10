@@ -1,2 +1,2 @@
-# ng-tour-of-heroes-
+# ng-tour-of-heroes
 Primeros pasos en angular.
